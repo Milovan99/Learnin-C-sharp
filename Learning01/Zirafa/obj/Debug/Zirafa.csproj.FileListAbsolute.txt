@@ -1,0 +1,7 @@
+C:\Users\Milovan\source\repos\Zirafa\Zirafa\bin\Debug\Zirafa.exe.config
+C:\Users\Milovan\source\repos\Zirafa\Zirafa\bin\Debug\Zirafa.exe
+C:\Users\Milovan\source\repos\Zirafa\Zirafa\bin\Debug\Zirafa.pdb
+C:\Users\Milovan\source\repos\Zirafa\Zirafa\obj\Debug\Zirafa.csprojAssemblyReference.cache
+C:\Users\Milovan\source\repos\Zirafa\Zirafa\obj\Debug\Zirafa.csproj.CoreCompileInputs.cache
+C:\Users\Milovan\source\repos\Zirafa\Zirafa\obj\Debug\Zirafa.exe
+C:\Users\Milovan\source\repos\Zirafa\Zirafa\obj\Debug\Zirafa.pdb
