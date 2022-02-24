@@ -1,0 +1,7 @@
+C:\Users\Milovan\source\repos\c#\Learning06\Learning06\bin\Debug\Learning06.exe.config
+C:\Users\Milovan\source\repos\c#\Learning06\Learning06\bin\Debug\Learning06.exe
+C:\Users\Milovan\source\repos\c#\Learning06\Learning06\bin\Debug\Learning06.pdb
+C:\Users\Milovan\source\repos\c#\Learning06\Learning06\obj\Debug\Learning06.csprojAssemblyReference.cache
+C:\Users\Milovan\source\repos\c#\Learning06\Learning06\obj\Debug\Learning06.csproj.CoreCompileInputs.cache
+C:\Users\Milovan\source\repos\c#\Learning06\Learning06\obj\Debug\Learning06.exe
+C:\Users\Milovan\source\repos\c#\Learning06\Learning06\obj\Debug\Learning06.pdb
