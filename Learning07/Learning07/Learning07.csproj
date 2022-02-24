@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1054551E-7961-49E9-B0E6-47C7FF86E9F6}</ProjectGuid>
+    <ProjectGuid>{04494246-E4B4-4422-9330-BBABD940CB77}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Learning05</RootNamespace>
-    <AssemblyName>Learning05</AssemblyName>
+    <RootNamespace>Learning07</RootNamespace>
+    <AssemblyName>Learning07</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,8 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Ruka.cs" />
-    <Compile Include="Veverica.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

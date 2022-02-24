@@ -10,11 +10,14 @@ namespace Learning05
     {
         static void Main(string[] args)
         {
-            Auto audi = new Auto("Audi", "Crni");
+            Veverica v1 = new Veverica("Chip", "Braon");
 
-            audi.sipajGorivo(100);
-            audi.pokreniAuto();
-            audi.zaustaviAuto();
+            v1.savijLevuRuku();
+            v1.pridrzi("Lesnik");
+            v1.ispruziLevuRuku();
+            Console.WriteLine(v1.getStaDrzi());
+
+            Console.ReadLine();
         }
 
     }
