@@ -1,0 +1,7 @@
+C:\Users\Milovan\source\repos\c#\Learning08\Learning08\bin\Debug\Learning08.exe.config
+C:\Users\Milovan\source\repos\c#\Learning08\Learning08\bin\Debug\Learning08.exe
+C:\Users\Milovan\source\repos\c#\Learning08\Learning08\bin\Debug\Learning08.pdb
+C:\Users\Milovan\source\repos\c#\Learning08\Learning08\obj\Debug\Learning08.csprojAssemblyReference.cache
+C:\Users\Milovan\source\repos\c#\Learning08\Learning08\obj\Debug\Learning08.csproj.CoreCompileInputs.cache
+C:\Users\Milovan\source\repos\c#\Learning08\Learning08\obj\Debug\Learning08.exe
+C:\Users\Milovan\source\repos\c#\Learning08\Learning08\obj\Debug\Learning08.pdb
