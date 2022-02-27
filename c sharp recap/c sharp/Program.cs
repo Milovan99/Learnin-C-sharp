@@ -10,6 +10,15 @@ namespace c_sharp
     {
         static void Main(string[] args)
         {
+            /* ****** Unos korisnika ******  */
+            Console.WriteLine("4.User input \n");
+            Console.Write("Enter username:");
+            string userName = Console.ReadLine();
+            Console.WriteLine("Username is: " + userName);
+            Console.Write("Enter your age:");
+            int age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Your age is: " + age + "\n");
+
             /* ****** Metode konverzije ****** */
             Console.WriteLine("3.Conversion methods \n");
             TypeConversionMethods conversion = new TypeConversionMethods();
@@ -47,5 +56,6 @@ namespace c_sharp
 
             Console.ReadLine();
         }
+
     }
 }
