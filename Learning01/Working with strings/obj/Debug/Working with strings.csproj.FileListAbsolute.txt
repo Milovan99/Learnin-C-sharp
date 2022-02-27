@@ -1,0 +1,6 @@
+C:\Users\Milovan\source\repos\c#\Learning01\Working with strings\obj\Debug\Working with strings.csproj.CoreCompileInputs.cache
+C:\Users\Milovan\source\repos\c#\Learning01\Working with strings\obj\Debug\Zirafa.exe
+C:\Users\Milovan\source\repos\c#\Learning01\Working with strings\obj\Debug\Zirafa.pdb
+C:\Users\Milovan\source\repos\c#\Learning01\Working with strings\bin\Debug\Zirafa.exe.config
+C:\Users\Milovan\source\repos\c#\Learning01\Working with strings\bin\Debug\Zirafa.exe
+C:\Users\Milovan\source\repos\c#\Learning01\Working with strings\bin\Debug\Zirafa.pdb

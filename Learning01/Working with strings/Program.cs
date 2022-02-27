@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zirafa
+namespace Workingwithstrings
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace Zirafa
             string name = "Milovan Jakovljevic";
             int god = 22;
             char grade = 'A';
-            double alBlode = 1.2;
+            double score = 1.2;
             bool isMale = true;
             Console.WriteLine("Hello " + name);
             Console.WriteLine("You have " + god + " age");
@@ -22,7 +22,7 @@ namespace Zirafa
 
             Console.WriteLine("You could be named " + name);
             Console.WriteLine("You have " + grade + " gade from programming");
-            Console.WriteLine("Have " + alBlode + " alc in you blode");
+            Console.WriteLine("Have " + score + " score");
 
             if (isMale == true)
             {
