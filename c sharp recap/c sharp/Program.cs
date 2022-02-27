@@ -10,7 +10,18 @@ namespace c_sharp
     {
         static void Main(string[] args)
         {
+            /* ****** Metode konverzije ****** */
+            Console.WriteLine("3.Conversion methods \n");
+            TypeConversionMethods conversion = new TypeConversionMethods();
+            Console.WriteLine("Double value " + conversion.myDouble + " is conversed to int :" + Convert.ToInt32(conversion.myDouble));
+           
+            Console.WriteLine("Int value " + conversion.myInt + " is conversed to double :" + Convert.ToDouble(conversion.myInt));
+            
+            Console.WriteLine("Bool value " + conversion.myBool + " is conversed to string :" + Convert.ToString(conversion.myBool) +"\n");
+
+
             /* ****** Varijable ****** */
+            Console.WriteLine("2.Variables \n");
             Variables person = new Variables();//Kreiranje objekta na osnovu klase Variables
 
             Console.WriteLine("My name : " + person.name); //Ispis atributa string name
@@ -22,7 +33,7 @@ namespace c_sharp
             if (person.student) { Console.WriteLine("I'm student"); } else { Console.WriteLine("I'm not student"); } // na osnovu vrednosti
             //atributa bool student ispisati odrenjei teks
 
-            Console.WriteLine("Firs letter of my name : " + person.myLetter);//Ispis atributa char myLetter
+            Console.WriteLine("Firs letter of my name : " + person.myLetter + "\n");//Ispis atributa char myLetter
 
 
             /* ****** Sintaksa ****** */
