@@ -1,0 +1,7 @@
+C:\Users\Milovan\source\repos\c#\c sharp recap\c sharp\bin\Debug\c sharp.exe.config
+C:\Users\Milovan\source\repos\c#\c sharp recap\c sharp\bin\Debug\c sharp.exe
+C:\Users\Milovan\source\repos\c#\c sharp recap\c sharp\bin\Debug\c sharp.pdb
+C:\Users\Milovan\source\repos\c#\c sharp recap\c sharp\obj\Debug\c sharp.csprojAssemblyReference.cache
+C:\Users\Milovan\source\repos\c#\c sharp recap\c sharp\obj\Debug\c sharp.csproj.CoreCompileInputs.cache
+C:\Users\Milovan\source\repos\c#\c sharp recap\c sharp\obj\Debug\c sharp.exe
+C:\Users\Milovan\source\repos\c#\c sharp recap\c sharp\obj\Debug\c sharp.pdb
